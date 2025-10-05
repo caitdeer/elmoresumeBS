@@ -1,0 +1,84 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+#header {
+	background-color: tomato;
+	color: lightgoldenrodyellow;
+	 border-bottom: 5px solid darkred;
+	 margin-bottom: 15px;
+}
+
+#header ul{
+	margin-top: 10px;
+}
+
+.container {
+	border: 5px solid darkred;
+}
+
+
+body 
+{
+  background-color: lightgoldenrodyellow;
+  color: #800000;
+  margin: 25px 50px;
+  font-family: Calibri, sans-serif;
+}
+
+
+p 
+{
+font-style: italic;
+color: #FF4500;
+}
+
+ul 
+{
+  list-style-type: square;
+}
+
+h1, h2 {
+	color: darkred;
+	margin: auto;
+	font-family: "Comic Sans MS", sans-serif;
+}
+
+h1
+{
+  font-weight: bold;
+  font-size: 40px;
+}
+
+h2
+{
+  font-size: 30px;
+}
+
+h3
+{
+ font-family: "Comic Sans MS", sans-serif;
+  font-size: 25px;
+  color: tomato;
+ background-color: darkred; 
+ border-left: 8px solid tomato;
+ border-left-style: solid;
+   border-radius: 5px; 
+    padding: 10px;
+}
+
+h4
+{
+  font-size: 20px; 
+  font-family: Courier New, monospace;
+  border-bottom: 4px solid darkred;
+  margin-left: 25px; 
+}
+
+h4+ul
+{
+  margin-left: 10px;
+}
+
+ul+p 
+{
+  margin-left: 40px;
+}
